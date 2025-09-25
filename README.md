@@ -32,6 +32,8 @@ This analysis aims to uncover actionable insights to improve operational efficie
 - **Dashboard Design**: UX-focused layout for clarity and interactivity
 
 ---
+## 📊 Dashboard Preview  
+![Diary Goods Analysis Dashboard](dairy.png)  
 
 ## 📈 Results
 - **Most Popular Product**: Curd  
@@ -53,8 +55,4 @@ This analysis aims to uncover actionable insights to improve operational efficie
 - Optimize storage conditions to extend shelf life, especially for milk
 - Monitor KPIs monthly to stay aligned with revenue goals and adjust strategy proactively
 
----
-
-
-For questions or collaboration, feel free to reach out via [GitHub Issues](https://github.com/your-repo/issues) or connect on LinkedIn.
 
